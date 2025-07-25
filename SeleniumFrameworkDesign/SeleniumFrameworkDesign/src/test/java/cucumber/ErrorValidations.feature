@@ -11,5 +11,5 @@ Feature: Error validation
     Then "Incorrect email or password." message is displayed
 
      Examples: 
-      | name  								|  password		    |
+      | name  				|  password		    |
       | rahulshetty@gmail.com |  Iamking@0      | 
